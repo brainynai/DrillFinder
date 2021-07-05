@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Drill Finder</string>
+    <string name="i_like_big_buttons_and_i_cannot_lie">I LIKE BIG BUTTONS AND I CANNOT LIE</string>
+    <string name="hello">Hello World!</string>
+    <string name="edit_message">Enter a diameter</string>
+    <string name="button_send">Go</string>
+    <string name="FracLabel">Closest Fractional Drills</string>
+    <string name="NumLabel">Closest Number/Letter Drills</string>
+    <string name="MetLabel">Closest Metric Drills</string>
+    <string name="OversizeLabel">Oversize:</string>
+    <string name="UndersizeLabel">Undersize:</string>
+    <string name="SelectedDiamLabel">Desired Diameter:</string>
+</resources>
